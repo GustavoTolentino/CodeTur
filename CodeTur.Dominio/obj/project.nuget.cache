@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IPmGXePuNdJutXunLPcdpWopYzGbEiV+QCAhjTMPrWf/W99yyJ5QBtQqQFZx+jOwwLHk3eU2Fs2II0Tdn5csvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tolen\\source\\repos\\CodeTur\\CodeTur.Dominio\\CodeTur.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tolen\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
